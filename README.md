@@ -1,14 +1,10 @@
 # Simon-Says-Game
 
-The Simon Says game is a memory-based challenge where players must repeat a growing sequence of colors built with HTML, CSS, and JavaScript. Each round, the game displays a sequence of button flashes in four colors (red, blue, yellow, green). Players then click the buttons in the same order. If they succeed, they advance to the next level, with the sequence lengthening each time, testing their memory further.
+•	Developed an interactive Simon Says memory game using HTML, CSS, and JavaScript, allowing users to memorize and repeat color sequences.
+•	Implemented random sequence generation to create a new sequence for each round, with user input validation to check responses for accuracy.
+•	Created a dynamic user interface with CSS animations to provide visual feedback on user actions (e.g., flashing colors, success/failure indicators).
+•	Utilized JavaScript event listeners to capture and respond to user clicks, ensuring real-time game interactions and sequence matching and incorporated a score tracking system to display progress.
+•	Tested the game across multiple browsers to ensure consistent performance and smooth animations.
 
-Key Elements:
-
-Start Button: Begins the game.
-Color Buttons: Flash in sequence for the player to repeat.
-Score Display: Tracks how many rounds the player has completed.
-Objective: Replicate the color sequence as it grows in length. The game ends when the player makes a mistake, challenging them to remember increasingly complex patterns.
-
-This simple game is engaging due to its increasing difficulty, which encourages players to push their memory limits.
 
 Here is the Live Link :- https://simon-says01.netlify.app/
